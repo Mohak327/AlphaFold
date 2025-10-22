@@ -1,0 +1,67 @@
+data_pocket8_atm
+# 
+loop_
+_struct.pdbx_descriptor
+This is a mmcif format file writen by the programm fpocket.                 
+It represents the atoms contacted by the voronoi vertices of the pocket.  
+                                                                           
+Information about the pocket     8:
+0  - Pocket Score                      : 0.0165
+1  - Drug Score                        : 0.0052
+2  - Number of alpha spheres           :    23
+3  - Mean alpha-sphere radius          : 3.9537
+4  - Mean alpha-sphere Solvent Acc.    : 0.6988
+5  - Mean B-factor of pocket residues  : 0.4418
+6  - Hydrophobicity Score              : -5.4286
+7  - Polarity Score                    :     6
+8  - Amino Acid based volume Score     : 4.7143
+9  - Pocket volume (Monte Carlo)       : 452.9194
+10  -Pocket volume (convex hull)       : 31.7045
+11 - Charge Score                      :     2
+12 - Local hydrophobic density Score   : 10.6154
+13 - Number of apolar alpha sphere     :    13
+14 - Proportion of apolar alpha sphere : 0.5652
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+ATOM    1416     O    O ?  ALA      A 197 ?   38.839   40.568  -24.856  -4.02  0 228 A
+ATOM    1441     C   CD ?  ARG      A 200 ?   35.207   39.896  -28.502   0.00  0 231 A
+ATOM    1444     N  NH1 ?  ARG      A 200 ?   34.723   42.263  -26.914  -3.70  0 231 A
+ATOM    1417     C   CB ?  ALA      A 197 ?   38.003   43.611  -24.978   0.00  0 228 A
+ATOM    1440     C   CG ?  ARG      A 200 ?   35.543   38.606  -27.707   0.00  0 231 A
+ATOM    1446     N    N ?  ARG      A 201 ?   38.780   37.677  -25.725   0.00  0 232 A
+ATOM    1447     C   CA ?  ARG      A 201 ?   40.036   37.144  -26.240   0.00  0 232 A
+ATOM    1478     O  OG1 ?  THR      A 204 ?   37.027   35.186  -29.226  -1.48  0 235 A
+ATOM    1485     C   CG ?  LYS      A 205 ?   43.609   30.813  -27.338   0.00  0 236 A
+ATOM    1487     C   CE ?  LYS      A 205 ?   46.009   30.731  -26.673   0.00  0 236 A
+ATOM    1521     O  OE2 ?  GLU      A 209 ?   44.115   26.814  -31.040  -4.43  0 240 A
+ATOM    1512     N  NE2 ?  GLN      A 208 ?   43.769   29.322  -33.468   0.00  0 239 A
+ATOM    1450     C   CB ?  ARG      A 201 ?   41.193   38.059  -25.841   0.00  0 232 A
+ATOM    1486     C   CD ?  LYS      A 205 ?   44.797   31.574  -26.809   0.00  0 236 A
+ATOM    1488     N   NZ ?  LYS      A 205 ?   47.251   31.600  -26.500   0.00  0 236 A
+ATOM    1511     O  OE1 ?  GLN      A 208 ?   42.254   30.980  -33.728   0.00  0 239 A
+ATOM    1479     C  CG2 ?  THR      A 204 ?   38.706   34.253  -30.722   0.00  0 235 A
+ATOM    1484     C   CB ?  LYS      A 205 ?   42.395   31.743  -27.353   0.00  0 236 A
+ATOM    1481     C   CA ?  LYS      A 205 ?   41.236   31.214  -28.180   0.00  0 236 A
+ATOM    1455     N  NH1 ?  ARG      A 201 ?   45.235   36.119  -25.343   0.00  0 232 A
+ATOM    1451     C   CG ?  ARG      A 201 ?   42.488   37.665  -26.506   0.00  0 232 A
+ATOM    1480     N    N ?  LYS      A 205 ?   40.117   32.146  -28.059   0.00  0 236 A
+ATOM    1438     O    O ?  ARG      A 200 ?   37.569   36.114  -26.767   0.00  0 231 A
+ATOM    1449     O    O ?  ARG      A 201 ?   40.677   34.834  -26.500  -3.21  0 232 A
+ATOM    1477     C   CB ?  THR      A 204 ?   38.247   34.431  -29.233   0.00  0 235 A
+# 

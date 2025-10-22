@@ -1,0 +1,65 @@
+data_pocket13_atm
+# 
+loop_
+_struct.pdbx_descriptor
+This is a mmcif format file writen by the programm fpocket.                 
+It represents the atoms contacted by the voronoi vertices of the pocket.  
+                                                                           
+Information about the pocket    13:
+0  - Pocket Score                      : -0.0187
+1  - Drug Score                        : 0.0045
+2  - Number of alpha spheres           :    26
+3  - Mean alpha-sphere radius          : 3.8243
+4  - Mean alpha-sphere Solvent Acc.    : 0.5239
+5  - Mean B-factor of pocket residues  : 0.2925
+6  - Hydrophobicity Score              : 14.2857
+7  - Polarity Score                    :     4
+8  - Amino Acid based volume Score     : 4.8571
+9  - Pocket volume (Monte Carlo)       : 311.0739
+10  -Pocket volume (convex hull)       : 12.8052
+11 - Charge Score                      :     1
+12 - Local hydrophobic density Score   : 18.0000
+13 - Number of apolar alpha sphere     :    19
+14 - Proportion of apolar alpha sphere : 0.7308
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+ATOM    2457     N    N ?  VAL      A 335 ?   22.751   10.540   -0.333   0.00  0 366 A
+ATOM    24       C   CB ?  GLU      A 4 ?   18.772    8.398    3.420   0.00  0 35 A
+ATOM    21       C   CA ?  GLU      A 4 ?   19.963    7.774    4.204   0.00  0 35 A
+ATOM    23       O    O ?  GLU      A 4 ?   20.921    9.082    5.982  -2.14  0 35 A
+ATOM    2454     C   CB ?  PRO      A 334 ?   22.300    7.658    1.271   0.00  0 365 A
+ATOM    2428     O    O ?  TRP      A 331 ?   24.940   10.997    3.864  -1.07  0 362 A
+ATOM    25       C   CG ?  GLU      A 4 ?   18.818    8.182    1.891   0.00  0 35 A
+ATOM    2458     C   CA ?  VAL      A 335 ?   22.076   11.773   -0.700   0.00  0 366 A
+ATOM    2481     C   CD ?  LYS      A 338 ?   17.599   13.146    1.051   0.00  0 369 A
+ATOM    2432     C  CD2 ?  TRP      A 331 ?   23.319   15.741    5.344   0.00  0 362 A
+ATOM    2433     N  NE1 ?  TRP      A 331 ?   22.902   17.427    3.918  -2.19  0 362 A
+ATOM    2431     C  CD1 ?  TRP      A 331 ?   23.169   16.315    3.186   0.00  0 362 A
+ATOM    2483     N   NZ ?  LYS      A 338 ?   17.910   15.554    1.490   0.00  0 369 A
+ATOM    2430     C   CG ?  TRP      A 331 ?   23.428   15.242    3.999   0.00  0 362 A
+ATOM    67       C   CB ?  ALA      A 8 ?   21.805   11.863    7.309   0.00  0 39 A
+ATOM    2435     C  CE3 ?  TRP      A 331 ?   23.542   15.182    6.612   0.00  0 362 A
+ATOM    2437     C  CZ3 ?  TRP      A 331 ?   23.357   15.987    7.756   0.00  0 362 A
+ATOM    22       C    C ?  GLU      A 4 ?   20.041    8.288    5.636   0.00  0 35 A
+ATOM    30       C   CA ?  ARG      A 5 ?   19.175    8.222    7.901   0.00  0 36 A
+ATOM    2438     C  CH2 ?  TRP      A 331 ?   22.989   17.347    7.639   0.00  0 362 A
+ATOM    2434     C  CE2 ?  TRP      A 331 ?   23.010   17.117    5.252   0.00  0 362 A
+ATOM    2429     C   CB ?  TRP      A 331 ?   23.819   13.835    3.549   0.00  0 362 A
+ATOM    2463     C  CG2 ?  VAL      A 335 ?   21.989   14.197   -0.100   0.00  0 366 A
+# 

@@ -1,0 +1,73 @@
+data_pocket5_atm
+# 
+loop_
+_struct.pdbx_descriptor
+This is a mmcif format file writen by the programm fpocket.                 
+It represents the atoms contacted by the voronoi vertices of the pocket.  
+                                                                           
+Information about the pocket     5:
+0  - Pocket Score                      : 0.0392
+1  - Drug Score                        : 0.0009
+2  - Number of alpha spheres           :    44
+3  - Mean alpha-sphere radius          : 3.8403
+4  - Mean alpha-sphere Solvent Acc.    : 0.4741
+5  - Mean B-factor of pocket residues  : 0.2049
+6  - Hydrophobicity Score              : -4.0000
+7  - Polarity Score                    :    12
+8  - Amino Acid based volume Score     : 4.6154
+9  - Pocket volume (Monte Carlo)       : 417.6874
+10  -Pocket volume (convex hull)       : 69.5442
+11 - Charge Score                      :     6
+12 - Local hydrophobic density Score   : 5.0000
+13 - Number of apolar alpha sphere     :     8
+14 - Proportion of apolar alpha sphere : 0.1818
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+ATOM    931      N  NE2 ?  HIS      A 121 ?   47.231   13.694   -7.160   0.00  0 152 A
+ATOM    208      N  NH1 ?  ARG      A 26 ?   42.680   12.571   -3.838  -6.56  0 57 A
+ATOM    207      C   CZ ?  ARG      A 26 ?   43.278   11.723   -3.031   0.00  0 57 A
+ATOM    530      N  NE2 ?  HIS      A 70 ?   44.260   15.774   -6.576  -4.79  0 101 A
+ATOM    915      N  ND2 ?  ASN      A 119 ?   44.303   18.973   -4.094  -3.28  0 150 A
+ATOM    929      C  CD2 ?  HIS      A 121 ?   47.640   14.654   -8.045   0.00  0 152 A
+ATOM    206      N   NE ?  ARG      A 26 ?   43.338   11.936   -1.704   0.00  0 57 A
+ATOM    209      N  NH2 ?  ARG      A 26 ?   43.799   10.632   -3.555   0.00  0 57 A
+ATOM    205      C   CD ?  ARG      A 26 ?   42.801   13.128   -1.003   0.00  0 57 A
+ATOM    528      C  CD2 ?  HIS      A 70 ?   43.905   14.592   -7.184   0.00  0 101 A
+ATOM    512      N    N ?  LYS      A 69 ?   39.301   15.840   -8.211  -2.19  0 100 A
+ATOM    912      C   CB ?  ASN      A 119 ?   45.954   20.626   -4.697   0.00  0 150 A
+ATOM    529      C  CE1 ?  HIS      A 70 ?   44.509   16.678   -7.514   0.00  0 101 A
+ATOM    197      C  CE1 ?  HIS      A 25 ?   38.898   15.389   -2.555   0.00  0 56 A
+ATOM    518      C   CD ?  LYS      A 69 ?   41.205   19.426   -6.206   0.00  0 100 A
+ATOM    195      N  ND1 ?  HIS      A 25 ?   39.210   15.425   -1.274  -1.09  0 56 A
+ATOM    516      C   CB ?  LYS      A 69 ?   41.037   17.575   -7.911   0.00  0 100 A
+ATOM    919      O    O ?  SER      A 120 ?   48.716   18.745   -9.580  -6.43  0 151 A
+ATOM    916      N    N ?  SER      A 120 ?   46.740   20.037   -7.993   0.00  0 151 A
+ATOM    709      O    O ?  GLN      A 95 ?   49.449   20.823   -7.087   0.00  0 126 A
+ATOM    918      C    C ?  SER      A 120 ?   47.566   18.329   -9.576   0.00  0 151 A
+ATOM    753      N  NH2 ?  ARG      A 100 ?   47.793   16.827    1.479  -2.61  0 131 A
+ATOM    177      O  OE2 ?  GLU      A 22 ?   44.909   17.872    1.223  -2.55  0 53 A
+ATOM    204      C   CG ?  ARG      A 26 ?   42.968   13.119    0.580   0.00  0 57 A
+ATOM    771      N  NH2 ?  ARG      A 102 ?   46.273   19.634   -0.562  -1.09  0 133 A
+ATOM    889      C  CE1 ?  TYR      A 116 ?   42.159   20.015   -0.433   0.00  0 147 A
+ATOM    892      O   OH ?  TYR      A 116 ?   40.540   18.888    0.824  -1.07  0 147 A
+ATOM    519      C   CE ?  LYS      A 69 ?   40.565   20.681   -5.504   0.00  0 100 A
+ATOM    891      C   CZ ?  TYR      A 116 ?   40.879   19.937    0.056   0.00  0 147 A
+ATOM    890      C  CE2 ?  TYR      A 116 ?   39.925   20.907   -0.257   0.00  0 147 A
+ATOM    492      O    O ?  GLY      A 66 ?   37.399   17.995   -5.415  -1.07  0 97 A
+# 

@@ -1,0 +1,73 @@
+data_pocket21_atm
+# 
+loop_
+_struct.pdbx_descriptor
+This is a mmcif format file writen by the programm fpocket.                 
+It represents the atoms contacted by the voronoi vertices of the pocket.  
+                                                                           
+Information about the pocket    21:
+0  - Pocket Score                      : -0.1138
+1  - Drug Score                        : 0.0006
+2  - Number of alpha spheres           :    34
+3  - Mean alpha-sphere radius          : 4.0091
+4  - Mean alpha-sphere Solvent Acc.    : 0.5841
+5  - Mean B-factor of pocket residues  : 0.1204
+6  - Hydrophobicity Score              : 13.5455
+7  - Polarity Score                    :     6
+8  - Amino Acid based volume Score     : 4.6364
+9  - Pocket volume (Monte Carlo)       : 571.3604
+10  -Pocket volume (convex hull)       : 99.9098
+11 - Charge Score                      :     3
+12 - Local hydrophobic density Score   : 14.1176
+13 - Number of apolar alpha sphere     :    17
+14 - Proportion of apolar alpha sphere : 0.5000
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+ATOM    974      O  OE1 ?  GLU      A 127 ?   48.628   13.610  -22.238  -3.35  0 158 A
+ATOM    1015     N  NH2 ?  ARG      A 131 ?   47.365   10.930  -26.137   0.00  0 162 A
+ATOM    1305     C   CA ?  VAL      A 170 ?   45.334   17.629  -23.923   0.00  0 201 A
+ATOM    1310     C  CG2 ?  VAL      A 170 ?   47.595   18.657  -23.334   0.00  0 201 A
+ATOM    1309     C  CG1 ?  VAL      A 170 ?   46.723   16.682  -22.016   0.00  0 201 A
+ATOM    1307     O    O ?  VAL      A 170 ?   44.061   15.592  -23.649  -4.29  0 201 A
+ATOM    1296     O    O ?  ARG      A 169 ?   44.384   17.886  -26.525  -0.81  0 200 A
+ATOM    1328     C   CG ?  PRO      A 173 ?   41.942   15.549  -27.484   0.00  0 204 A
+ATOM    1327     C   CB ?  PRO      A 173 ?   41.131   14.287  -27.438   0.00  0 204 A
+ATOM    973      C   CD ?  GLU      A 127 ?   47.979   12.607  -22.490   0.00  0 158 A
+ATOM    1336     C  CD1 ?  LEU      A 174 ?   42.478   12.200  -22.553   0.00  0 205 A
+ATOM    1590     C  CE1 ?  HIS      A 217 ?   39.190   10.361  -29.335   0.00  0 248 A
+ATOM    1040     N  NE2 ?  GLN      A 134 ?   40.125    8.895  -26.296  -3.70  0 165 A
+ATOM    1012     N   NE ?  ARG      A 131 ?   46.249    9.680  -24.595  -0.42  0 162 A
+ATOM    1335     C   CG ?  LEU      A 174 ?   41.212   11.779  -23.255   0.00  0 205 A
+ATOM    1039     O  OE1 ?  GLN      A 134 ?   41.649    7.466  -25.408  -3.35  0 165 A
+ATOM    1337     C  CD2 ?  LEU      A 174 ?   41.056   10.289  -23.161   0.00  0 205 A
+ATOM    1013     C   CZ ?  ARG      A 131 ?   47.346    9.910  -25.305   0.00  0 162 A
+ATOM    1589     C  CD2 ?  HIS      A 217 ?   39.013   11.494  -31.212   0.00  0 248 A
+ATOM    1587     C   CG ?  HIS      A 217 ?   38.809   12.362  -30.182   0.00  0 248 A
+ATOM    1588     N  ND1 ?  HIS      A 217 ?   38.949   11.629  -29.026  -1.09  0 248 A
+ATOM    1591     N  NE2 ?  HIS      A 217 ?   39.216   10.251  -30.658   0.00  0 248 A
+ATOM    1553     N    N ?  ARG      A 214 ?   39.587   16.790  -33.817   0.00  0 245 A
+ATOM    1552     C  CD2 ?  LEU      A 213 ?   41.882   18.844  -30.102   0.00  0 244 A
+ATOM    1586     C   CB ?  HIS      A 217 ?   38.499   13.828  -30.175   0.00  0 248 A
+ATOM    1549     C   CB ?  LEU      A 213 ?   39.625   18.537  -31.145   0.00  0 244 A
+ATOM    1558     C   CG ?  ARG      A 214 ?   40.786   14.743  -35.745   0.00  0 245 A
+ATOM    1544     O    O ?  GLY      A 212 ?   41.751   20.096  -34.396  -2.95  0 243 A
+ATOM    1546     C   CA ?  LEU      A 213 ?   40.114   18.814  -32.595   0.00  0 244 A
+ATOM    1559     C   CD ?  ARG      A 214 ?   41.657   13.519  -35.708   0.00  0 245 A
+ATOM    1557     C   CB ?  ARG      A 214 ?   39.503   14.593  -34.850   0.00  0 245 A
+# 

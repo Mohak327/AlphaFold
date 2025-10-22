@@ -1,0 +1,72 @@
+// docker run -v C:\Users\mohak\Downloads\AlphaFold\PredictedAlignedError_Analysis\transthyretin_f2c07\cif:/workdir fpocket/fpocket fpocket -f /workdir/5mut.cif
+
+// Ideally, I want to be able to just paste the full path, split it in powershell and then run the command, but that isnt working, so I have commented it below.
+// {
+//     "version": "2.0.0",
+//     "tasks": [
+//         {
+//             "label": "Run fpocket (PowerShell, handles single backslash)",
+//             "type": "shell",
+//             "command": "powershell",
+//             "args": [
+//                 "-Command",
+//                 "$absfile=\"${input:filepath}\"; $absfile = $absfile -replace '\\', '/'; $dir=[System.IO.Path]::GetDirectoryName($absfile); $file=[System.IO.Path]::GetFileName($absfile); docker run -v \"$dir:/workdir\" fpocket/fpocket fpocket -f \"/workdir/$file\""
+//             ],
+//             "presentation": {
+//                 "echo": true,
+//                 "reveal": "always",
+//                 "focus": false,
+//                 "panel": "shared"
+//             }
+//         }
+//     ],
+//     "inputs": [
+//         {
+//             "id": "filepath",
+//             "description": "Paste absolute file path (single backslash is fine, e.g. C:\\Users\\...\\file.cif)",
+//             "type": "promptString"
+//         }
+//     ]
+// }
+
+
+// The current implementation will take file path and file name separately.
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run fpocket",
+            "type": "shell",
+            "command": "docker",
+            "args": [
+                "run",
+                "-v",
+                "${input:mountfolder}:/workdir",
+                "fpocket/fpocket",
+                "fpocket",
+                "-f",
+                "/workdir/${input:filename}"
+            ],
+            "group": "build",
+            "presentation": {
+                "echo": true,
+                "reveal": "always",
+                "focus": false,
+                "panel": "shared"
+            }
+        }
+    ],
+    "inputs": [
+        {
+            "id": "mountfolder",
+            "description": "Absolute path to containing folder (e.g. C:\\...\\cif)",
+            "type": "promptString"
+        },
+        {
+            "id": "filename",
+            "description": "File name only (e.g. 5mut.cif)",
+            "type": "promptString"
+        }
+    ]
+}
+

@@ -1,0 +1,67 @@
+data_pocket9_atm
+# 
+loop_
+_struct.pdbx_descriptor
+This is a mmcif format file writen by the programm fpocket.                 
+It represents the atoms contacted by the voronoi vertices of the pocket.  
+                                                                           
+Information about the pocket     9:
+0  - Pocket Score                      : 0.0158
+1  - Drug Score                        : 0.0004
+2  - Number of alpha spheres           :    31
+3  - Mean alpha-sphere radius          : 3.8103
+4  - Mean alpha-sphere Solvent Acc.    : 0.5339
+5  - Mean B-factor of pocket residues  : 0.1161
+6  - Hydrophobicity Score              : 7.5000
+7  - Polarity Score                    :     6
+8  - Amino Acid based volume Score     : 4.8750
+9  - Pocket volume (Monte Carlo)       : 335.5392
+10  -Pocket volume (convex hull)       : 38.8227
+11 - Charge Score                      :     0
+12 - Local hydrophobic density Score   : 11.0000
+13 - Number of apolar alpha sphere     :    12
+14 - Proportion of apolar alpha sphere : 0.3871
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+ATOM    2261     C   CG ?  GLN      A 309 ?   12.209   22.764   -2.648   0.00  0 340 A
+ATOM    2259     O    O ?  GLN      A 309 ?   14.209   22.622   -5.193  -1.07  0 340 A
+ATOM    2282     C   CB ?  LEU      A 312 ?   12.523   21.094   -8.474   0.00  0 343 A
+ATOM    2584     N  NE2 ?  GLN      A 350 ?    7.112   22.048   -7.073   0.00  0 381 A
+ATOM    2549     C  CD2 ?  LEU      A 346 ?    8.071   18.724   -4.504   0.00  0 377 A
+ATOM    2263     O  OE1 ?  GLN      A 309 ?   10.598   22.839   -0.816   0.00  0 340 A
+ATOM    2294     O  OE2 ?  GLU      A 313 ?   12.439   26.801   -3.431  -0.54  0 344 A
+ATOM    2262     C   CD ?  GLN      A 309 ?   11.629   23.341   -1.331   0.00  0 340 A
+ATOM    2548     C  CD1 ?  LEU      A 346 ?   10.604   18.901   -4.874   0.00  0 377 A
+ATOM    2291     C   CG ?  GLU      A 313 ?   13.280   25.871   -5.528   0.00  0 344 A
+ATOM    2318     C   CD ?  ARG      A 316 ?    9.738   24.964  -10.238   0.00  0 347 A
+ATOM    2287     C   CA ?  GLU      A 313 ?   14.181   25.325   -7.830   0.00  0 344 A
+ATOM    2659     O  OD2 ?  ASP      A 362 ?   11.343   29.664  -10.384   0.00  0 393 A
+ATOM    2283     C   CG ?  LEU      A 312 ?   11.339   21.492   -9.382   0.00  0 343 A
+ATOM    2320     C   CZ ?  ARG      A 316 ?    7.647   26.073  -10.928   0.00  0 347 A
+ATOM    2583     O  OE1 ?  GLN      A 350 ?    7.199   22.456   -9.284   0.00  0 381 A
+ATOM    2321     N  NH1 ?  ARG      A 316 ?    6.941   24.940  -10.962  -0.42  0 347 A
+ATOM    2107     N  NH2 ?  ARG      A 287 ?   14.111   31.260   -8.583  -1.51  0 318 A
+ATOM    2292     C   CD ?  GLU      A 313 ?   13.475   26.581   -4.131   0.00  0 344 A
+ATOM    2582     C   CD ?  GLN      A 350 ?    6.647   21.945   -8.332   0.00  0 381 A
+ATOM    2285     C  CD2 ?  LEU      A 312 ?   10.080   20.729   -8.929   0.00  0 343 A
+ATOM    2257     C   CA ?  GLN      A 309 ?   13.299   20.834   -3.866   0.00  0 340 A
+ATOM    2286     N    N ?  GLU      A 313 ?   14.126   23.871   -7.780   0.00  0 344 A
+ATOM    2319     N   NE ?  ARG      A 316 ?    8.914   26.105  -10.533   0.00  0 347 A
+ATOM    2658     O  OD1 ?  ASP      A 362 ?    9.313   28.924  -11.002  -0.81  0 393 A
+# 

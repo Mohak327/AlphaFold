@@ -1,0 +1,59 @@
+data_pocket6_atm
+# 
+loop_
+_struct.pdbx_descriptor
+This is a mmcif format file writen by the programm fpocket.                 
+It represents the atoms contacted by the voronoi vertices of the pocket.  
+                                                                           
+Information about the pocket     6:
+0  - Pocket Score                      : 0.0311
+1  - Drug Score                        : 0.0003
+2  - Number of alpha spheres           :    18
+3  - Mean alpha-sphere radius          : 4.1595
+4  - Mean alpha-sphere Solvent Acc.    : 0.6873
+5  - Mean B-factor of pocket residues  : 0.0480
+6  - Hydrophobicity Score              : 6.5000
+7  - Polarity Score                    :     4
+8  - Amino Acid based volume Score     : 3.5000
+9  - Pocket volume (Monte Carlo)       : 264.6435
+10  -Pocket volume (convex hull)       : 4.3909
+11 - Charge Score                      :     0
+12 - Local hydrophobic density Score   : 0.0000
+13 - Number of apolar alpha sphere     :     1
+14 - Proportion of apolar alpha sphere : 0.0556
+# 
+loop_
+_atom_site.group_PDB
+_atom_site.id
+_atom_site.type_symbol
+_atom_site.label_atom_id
+_atom_site.label_alt_id
+_atom_site.label_comp_id
+_atom_site.label_asym_id
+_atom_site.label_seq_id
+_atom_site.pdbx_PDB_ins_code
+_atom_site.Cartn_x
+_atom_site.Cartn_y
+_atom_site.Cartn_z
+_atom_site.occupancy
+_atom_site.pdbx_formal_charge
+_atom_site.auth_seq_id
+_atom_site.auth_asym_id
+ATOM    1979     C  CG2 ?  THR      A 270 ?   41.288   33.359    1.953   0.00  0 301 A
+ATOM    1980     N    N ?  GLY      A 271 ?   38.468   31.923    1.869   0.00  0 302 A
+ATOM    1877     C   CB ?  VAL      A 256 ?   34.981   35.618   -1.997   0.00  0 287 A
+ATOM    1878     C  CG1 ?  VAL      A 256 ?   35.786   34.614   -2.800   0.00  0 287 A
+ATOM    1876     O    O ?  VAL      A 256 ?   33.671   36.427    0.543   0.00  0 287 A
+ATOM    1974     C   CA ?  THR      A 270 ?   39.648   32.873    3.801   0.00  0 301 A
+ATOM    1978     O  OG1 ?  THR      A 270 ?   41.288   34.624    4.021  -1.88  0 301 A
+ATOM    1967     O    O ?  GLU      A 269 ?   37.339   32.367    5.255  -1.07  0 300 A
+ATOM    1961     O    O ?  SER      A 268 ?   38.159   34.408    7.927   0.00  0 299 A
+ATOM    1959     C   CA ?  SER      A 268 ?   35.949   34.105    8.843   0.00  0 299 A
+ATOM    1962     C   CB ?  SER      A 268 ?   36.188   35.131    9.945   0.00  0 299 A
+ATOM    1963     O   OG ?  SER      A 268 ?   34.987   35.907   10.135  -5.76  0 299 A
+ATOM    1891     C   CG ?  ARG      A 258 ?   32.331   35.457    4.715   0.00  0 289 A
+ATOM    1893     N   NE ?  ARG      A 258 ?   33.646   33.372    4.547  -2.19  0 289 A
+ATOM    1896     N  NH2 ?  ARG      A 258 ?   35.399   32.575    3.242   0.00  0 289 A
+ATOM    1894     C   CZ ?  ARG      A 258 ?   34.153   33.060    3.337   0.00  0 289 A
+ATOM    1983     O    O ?  GLY      A 271 ?   36.034   31.942    0.615   0.00  0 302 A
+# 
